@@ -1,6 +1,9 @@
 # 简介
 将 ie-out 移植到您的网站，用户使用 IE 访问网站时自动跳转到提醒升级浏览器的页面。
+
 灵感来源于 旧版 Internet Explorer 淘汰行动(https://support.dmeng.net/kill-old-versions-of-ie.html) 。但原项目已经很久没有更新，故经修改，分享给大家！
+
+别忘记点个 Star！
 
 # 需要添加的代码
 您需要在需要启用 ie-out 的网页添加以下代码：
